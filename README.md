@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Elias, an aspiring Software Engineer. Currently exploring the realms of Web development and AI.
 <!--
 **Elias-Belkheiri/Elias-Belkheiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
