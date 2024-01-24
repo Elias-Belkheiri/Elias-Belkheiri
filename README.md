@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Elias, an aspiring Software Engineer with a thirst for conquering the frontiers of technology. Currently, I'm delving into the realms of Web Development, Low-Level Programming, and AI.
+I'm Elias, an aspiring Software Engineer. Currently, I'm delving into the realms of Web Development, Low-Level Programming, and AI.
 
 🚀 MyToolbox:
 - Programming Languages: C, C++, TypeScript, Python
