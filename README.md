@@ -4,6 +4,8 @@ I'm Elias, an aspiring Software Engineer. Currently, I'm delving into the realms
 🚀 MyToolbox:
 - **Programming Languages:** C, C++, TypeScript, Python
 - **Other Technologies:** Node.js, Express.js, NestJS, React.js, Django, HTML, CSS, Tailwind CSS, Docker
+
+  ![](https://hit.yhype.me/github/profile?user_id=77249146)
 <!--
 **Elias-Belkheiri/Elias-Belkheiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
