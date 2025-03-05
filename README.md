@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm Elias, an aspiring Software Engineer. Currently, I'm delving into the realms of Web Development, Low-Level Programming, and Machine Learning.
+I'm Elias, an aspiring Software Engineer. Currently delving into the realms of Web Development, Low-Level Programming, and Machine Learning.
 
 🚀 MyToolbox:
 - **Programming Languages:** C, C++, TypeScript, Python, Go
-- **Other Technologies:** Node.js, Express.js, NestJS, React.js, Django, Flask, HTML, CSS, Tailwind CSS, Docker
+- **Other Technologies:** Node.js, Express.js, NestJS, React.js, Svelte, Django, Flask, HTML, CSS, Tailwind CSS, Docker
 <!--
 **Elias-Belkheiri/Elias-Belkheiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
